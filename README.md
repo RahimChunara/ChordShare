@@ -54,8 +54,10 @@ Clone the repository:
 
 ```bash
 [git clone https://github.com/RahimChunara/ChordShare.git]
-Install the required dependencies (e.g., Python, if applicable).
 ```
+
+Install the required dependencies (e.g., Python, if applicable).
+
 Configure the network settings (IP addresses, port numbers) for the nodes.
 
 Run the program on each node to join the network.
